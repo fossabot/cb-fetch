@@ -2,6 +2,7 @@
 ![min size](https://badgen.net/bundlephobia/min/cb-fetch)
 ![publish size](https://badgen.net/packagephobia/publish/cb-fetch)
 ![install size](https://badgen.net/packagephobia/install/cb-fetch)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMouvedia%2Fcb-fetch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMouvedia%2Fcb-fetch?ref=badge_shield)
 <a href="http://www.npmjs.com/package/cb-fetch">
   <img alt="npm version" align="right" src="https://badge.fury.io/js/cb-fetch.svg" />
 </a><br/>
@@ -294,3 +295,6 @@ fully honored if a cookie has been deemed unsatisfactory.
 
 ## License
 This project is licensed under the terms of the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMouvedia%2Fcb-fetch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMouvedia%2Fcb-fetch?ref=badge_large)
